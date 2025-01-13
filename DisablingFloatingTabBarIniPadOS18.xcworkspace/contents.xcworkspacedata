@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:BottomTabBarController"
+      name = "BottomTabBarController">
+      <Group
+         location = "group:BottomTabBarController"
+         name = "BottomTabBarController">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Contents"
+            name = "Contents">
+            <FileRef
+               location = "group:ViewControllerD.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerB.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerE.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerC.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerA.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <FileRef
+            location = "group:BottomTabItem.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:UIView+filled.swift">
+         </FileRef>
+         <FileRef
+            location = "group:ArrayBuilder.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BottomTabBarSelection.swift">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:BottomTabBarController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:BottomTabBarController.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:ClassicRestoredTabBarController"
+      name = "ClassicRestoredTabBarController">
+      <Group
+         location = "group:ClassicRestoredTabBarController"
+         name = "ClassicRestoredTabBarController">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Contents"
+            name = "Contents">
+            <FileRef
+               location = "group:ViewControllerD.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerB.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerE.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerC.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerA.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <FileRef
+            location = "group:ClassicRestoredTabBarController.swift">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ClassicRestoredTabBarController.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:CompactTabBarController"
+      name = "CompactTabBarController">
+      <Group
+         location = "group:CompactTabBarController"
+         name = "CompactTabBarController">
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+         <Group
+            location = "group:Contents"
+            name = "Contents">
+            <FileRef
+               location = "group:ViewControllerD.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerB.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerE.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerC.swift">
+            </FileRef>
+            <FileRef
+               location = "group:ViewControllerA.swift">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Assets.xcassets">
+         </FileRef>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:CompactTabBarController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:SceneDelegate.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:CompactTabBarController.xcodeproj">
+      </FileRef>
+   </Group>
+</Workspace>
