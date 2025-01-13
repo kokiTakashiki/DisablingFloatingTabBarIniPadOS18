@@ -8,15 +8,6 @@
 import Then
 import UIKit
 
-class MyTabBarController: UITabBarController {
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-
-        traitOverrides.horizontalSizeClass = .compact // 👈 Override like this, use `.unspecified` to see all tabs.
-    }
-}
-
 class CompactTabBarController: UITabBarController {
     enum TabBarItem: Int {
         case home
